@@ -1,0 +1,21 @@
+.titel {
+ text-align:center;
+ color:rgb(1, 149, 14);
+ font-size: 200px;
+}
+
+body{
+    background-color:rgb(14, 167, 103);
+}
+
+.center {
+text-align: center;
+}
+
+.bodyimage {
+    width: 1200px;
+    height: auto;
+}
+
+.text { color:green(1, 149,14);
+}
